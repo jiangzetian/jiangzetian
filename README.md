@@ -6,11 +6,11 @@
 
 ### 社交媒体
 
-[<img src="./assets/image/github.png" style="width:22px;"> Github](https://github.com/jiangzetian)
+[<img src="./assets/image/github.png" style="width:22px;">](https://github.com/jiangzetian)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="./assets/image/bilibili.png" style="width:22px;"> Bilibili](https://space.bilibili.com/279625650)
+[<img src="./assets/image/bilibili.png" style="width:22px;">](https://space.bilibili.com/279625650)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="./assets/image/juejin.jpg" style="width:22px;"> 稀土掘金](https://juejin.cn/user/3984285872431934)
+[<img src="./assets/image/juejin.jpg" style="width:22px;">](https://juejin.cn/user/3984285872431934)
 
 ### 微信公众号
 
