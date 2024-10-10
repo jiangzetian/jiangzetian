@@ -2,7 +2,7 @@
 
 ### 关于我的
 
-![公众号：天小天个人网](./assets/image/my.jpg)
+![公众号：天小天个人网](./assets/image/my.png)
 
 ### 社交媒体
 
@@ -14,7 +14,7 @@
 
 ### 微信公众号
 
-![公众号：天小天个人网](./assets/image/wxgzh.gif)
+<img src="./assets/image/wxgzh.gif" style="width:100%;margin:0 auto;padding:0 26px;display:block;box-sizing: border-box;">
 
 ## 生命不息，代码不止
 
