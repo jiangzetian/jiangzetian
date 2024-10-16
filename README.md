@@ -29,10 +29,10 @@
 </picture>
 
 ### 语言统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangzetian&locale=cn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangzetian&locale=cn&theme=dracula)](https://tianxiaotian.xyz/)
 
 ### 仓库统计
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangzetian&locale=cn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangzetian&locale=cn&theme=dracula)](https://tianxiaotian.xyz/)
 
 ### 访客统计
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiangzetian&locale=cn&theme=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiangzetian&locale=cn&theme=github)](https://tianxiaotian.xyz/)
