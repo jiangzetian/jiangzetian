@@ -1,5 +1,5 @@
 ## 快来关注我吧
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=000000&lines=天小天，一名年轻且充满活力的前端工程师！)](https://tianxiaotian.xyz/)
 
 ### 社交媒体
 <!--![](https://stats.justsong.cn/api/github?username=jiangzetian?lang=zh-CN&theme=dark)
@@ -14,8 +14,7 @@
 [<img src="./assets/image/juejin.jpg" style="width:36px;">](https://juejin.cn/user/3984285872431934)
 
 ### 个人博客
-
-[![公众号：天小天个人网](./assets/image/my.png)](https://tianxiaotian.xyz/)
+[![天小天个人网](./assets/image/my.png)](https://tianxiaotian.xyz/)
 
 ### 微信公众号
 
