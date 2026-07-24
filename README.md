@@ -1,5 +1,5 @@
 ## 快来关注我吧
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=000000&lines=天小天，一名年轻且充满活力的前端工程师！)](https://tianxiaotian.xyz/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=1000&color=000000&lines=天小天，一名年轻且充满活力的Coder！)](https://tianxiaotian.xyz/)
 
 ### 社交媒体
 <!--![](https://stats.justsong.cn/api/github?username=jiangzetian?lang=zh-CN&theme=dark)
@@ -29,10 +29,11 @@
 </picture>
 
 ### 语言统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangzetian&locale=cn&theme=dracula)](https://tianxiaotian.xyz/)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jiangzetian&locale=cn&langs&theme=dracula&count=10)](https://tianxiaotian.xyz/)
 
 ### 仓库统计
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangzetian&locale=cn&theme=dracula)](https://tianxiaotian.xyz/)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jiangzetian&locale=cn&theme=dracula)]([https://github.com/stats-organization/github-stats-extended](https://tianxiaotian.xyz/))
+
 
 ### 访客统计
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiangzetian&locale=cn&theme=github)](https://tianxiaotian.xyz/)
